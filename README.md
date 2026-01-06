@@ -50,7 +50,7 @@
 
 ## 📚 멤버별 기술 블로그/드라이브
 
-- 지민 velog: [https://velog.io/@zzmnxn/posts](https://velog.io/@zzmnxn/posts)
+- [지민 tistory] : [https://wlals916.tistory.com/category/Algorithms](https://wlals916.tistory.com/category/Algorithms)
 - 구글 스프레드시트: https://docs.google.com/spreadsheets/d/14r3C0cXU-G9Y8dfsdsgMbn_6GCnyqB-VQGXYxlmlgNE/edit?usp=sharing
     - **각자 자신의 이름 시트에 본인이 푼 모든 문제를 반드시 기록해야 합니다!**
 - (추가/수정 자유, shared_links/links.md에도 정리)
