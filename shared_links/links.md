@@ -3,12 +3,13 @@
 - **팀원 velog/티스토리/블로그** :
     - 지민 tistory: https://wlals916.tistory.com/category/Algorithms
     - 희선 velog: https://velog.io/@lissani/posts
-
+    - 소현 notion: https://www.notion.so/2e622b278b2180cfad32f58d8d8b1543
 ---
 
 
 - **팀원 개인 문제풀이 repo** :
     - 지민 : https://github.com/zzmnxn/algorithm-study
+    - 소현 : https://github.com/soba1im/algo-study
 
 
 ---
