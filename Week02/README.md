@@ -1,6 +1,6 @@
 # Week 02
 
-<img width="973" height="558" alt="image" src="https://github.com/user-attachments/assets/606261ed-a1a2-4c4f-a4dd-992c0dba825e" />
+![alt text](image.png)
 
 ---
 ## 다음주 (Week 03) 목표
@@ -13,6 +13,9 @@
 - [ ] 해시 관련 문제 7개 풀기
 
 #### ✏️ 정희선
+- [] 이번주 못한 자료구조 stl 공부하기
+- [] 문제 5개 풀기
+- [] 시간복잡도 관련 내용 공부하기
 
 #### ✏️ 임소현
 
